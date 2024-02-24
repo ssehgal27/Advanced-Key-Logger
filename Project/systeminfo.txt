@@ -1,0 +1,35 @@
+Public IP Address: 66.23.46.4Processor: Intel64 Family 6 Model 60 Stepping 3, GenuineIntel
+System: Windows 10.0.19045
+Machine: AMD64
+Hostname: THEBOND
+Private IP Address: 192.168.1.133
+Public IP Address: 66.23.46.4Processor: Intel64 Family 6 Model 60 Stepping 3, GenuineIntel
+System: Windows 10.0.19045
+Machine: AMD64
+Hostname: THEBOND
+Private IP Address: 192.168.1.133
+Public IP Address: 66.23.46.4Processor: Intel64 Family 6 Model 60 Stepping 3, GenuineIntel
+System: Windows 10.0.19045
+Machine: AMD64
+Hostname: THEBOND
+Private IP Address: 192.168.1.133
+Public IP Address: 66.23.46.4Processor: Intel64 Family 6 Model 60 Stepping 3, GenuineIntel
+System: Windows 10.0.19045
+Machine: AMD64
+Hostname: THEBOND
+Private IP Address: 192.168.1.133
+Public IP Address: 66.23.46.4Processor: Intel64 Family 6 Model 60 Stepping 3, GenuineIntel
+System: Windows 10.0.19045
+Machine: AMD64
+Hostname: THEBOND
+Private IP Address: 192.168.1.133
+Public IP Address: 66.23.46.4Processor: Intel64 Family 6 Model 60 Stepping 3, GenuineIntel
+System: Windows 10.0.19045
+Machine: AMD64
+Hostname: THEBOND
+Private IP Address: 192.168.1.133
+Public IP Address: 66.23.46.4Processor: Intel64 Family 6 Model 60 Stepping 3, GenuineIntel
+System: Windows 10.0.19045
+Machine: AMD64
+Hostname: THEBOND
+Private IP Address: 192.168.1.133
